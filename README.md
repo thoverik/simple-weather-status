@@ -5,7 +5,9 @@ simple realtime clock &amp; weather status
 ## Demo
 
 Demo available at https://thoverik.github.io/simple-weather-status/
-[demo]: demo.jpg "demo"
+
+![demo.jpg](demo.jpg "demo.jpg")
+
 
 
 ## Installation
